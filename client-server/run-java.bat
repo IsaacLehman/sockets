@@ -1,5 +1,6 @@
 @echo off
 :: Compiles and runs a .java file
+:: BY: Isaac Lehman
 
 :: Print the available files
 echo Available .java Files:
